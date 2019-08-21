@@ -8,6 +8,9 @@ $(function() {
         var word1 = column1[Math.floor(Math.random()*column1.length)];
         var word2 = column2[Math.floor(Math.random()*column2.length)];
         var word3 = column3[Math.floor(Math.random()*column3.length)];
+        console.log(word1);
+        console.log(word2);
+        console.log(word3);
         $("#insult").text(word1 + " " + word2 + " " + word3);
     });
 });
