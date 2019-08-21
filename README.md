@@ -1,2 +1,2 @@
-# gut_punch_to_the_feels
+# gut_punch
 An Insult generator
