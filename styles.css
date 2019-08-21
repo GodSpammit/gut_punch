@@ -10,5 +10,6 @@ body{
 
 #insult {
   color: #e27d60;
+  font-weight: bold;
   font-size: 20px;
 }
